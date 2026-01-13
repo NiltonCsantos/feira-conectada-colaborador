@@ -1,0 +1,6 @@
+export enum NicheEnum {
+  GRÃOS = "GRÃOS",
+  HORTIFRUTI = "HORTIFRUTI",
+  ORIGEM_ANIMAL = "ORIGEM_ANIMAL",
+  VEGETAIS = "VEGETAIS",
+}

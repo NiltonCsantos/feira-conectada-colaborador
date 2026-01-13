@@ -1,0 +1,18 @@
+1. Fonte recomendada (família Roboto)
+
+Uso	Fonte recomendada	Peso
+Título principal (H1)	Roboto_700Bold	Negrito
+Subtítulo (H2)	Roboto_500Medium	Médio
+Texto comum	Roboto_400Regular	Regular
+
+
+
+
+2. Tamanhos e espaçamentos sugeridos
+
+Elemento	fontFamily	fontSize	Exemplo de uso
+H1	'Roboto_700Bold'	28–34	Título de tela, header principal
+H2	'Roboto_500Medium'	22–26	Subtítulo, seção importante
+H3	'Roboto_500Medium'	18–20	Rótulo de grupo, destaque
+Texto normal	'Roboto_400Regular'	14–16	Parágrafos, descrições
+Pequeno / legenda	'Roboto_400Regular_Italic'	12–13	Notas, placeholders
